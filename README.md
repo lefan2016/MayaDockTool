@@ -5,7 +5,7 @@
 ## Why
 
     Binding *.ui file for the tool is way more faster. So by usin this method,
-    I believe
+    I believe it will more faster.
     
     This method wasn't the right or wrong. But till now, this method is suit for me so damn well.
 
@@ -32,3 +32,9 @@
     You can place "myMayaTool" folder to that location
 
 See "polygonTool.py" for more detail.
+
+#### Note
+
+    Basically we're just create 2 class for 2 window.
+    The main core class is to build the function.
+    And second class is to bind it with Maya window.
