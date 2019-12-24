@@ -31,4 +31,4 @@
 
     You can place "myMayaTool" folder to that location
 
-See "polygonTool" for more detail.
+See "polygonTool.py" for more detail.
