@@ -5,7 +5,7 @@
 ## Why
 
     Binding *.ui file for the tool is way more faster. So by usin this method,
-    I believe
+    I believe it will more faster.
     
     This method wasn't the right or wrong. But till now, this method is suit for me so damn well.
 
